@@ -4,11 +4,11 @@
   "description": "This package was used to treat npm modules as if the user had set engine-strict but it works on npm version > 3",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo 'no tests found'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daton89/node-engine-strict.git"
+    "url": "git+https://github.com/daton89-topperblues/node-engine-strict.git"
   },
   "keywords": [
     "node",
@@ -19,7 +19,10 @@
   "author": "@daton89 Toni D'Angelo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/daton89/node-engine-strict/issues"
+    "url": "https://github.com/daton89-topperblues/node-engine-strict/issues"
   },
-  "homepage": "https://github.com/daton89/node-engine-strict#readme"
+  "homepage": "https://github.com/daton89-topperblues/node-engine-strict#readme",
+  "dependencies": {
+    "semver": "^5.3.0"
+  }
 }
