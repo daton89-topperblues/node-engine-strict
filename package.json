@@ -1,5 +1,5 @@
 {
-  "name": "node-engine-strict",
+  "name": "engine-strict",
   "version": "1.0.0",
   "description": "This package was used to treat npm modules as if the user had set engine-strict but it works on npm version > 3",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "engine",
     "engine-strict"
   ],
-  "author": "@daton89 Toni D'Angelo",
+  "author": "@daton89 Toni D'Angelo, @topperblues Nicola Bonavita",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/daton89-topperblues/node-engine-strict/issues"
