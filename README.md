@@ -8,7 +8,6 @@ const engineStrict = require('node-engine-strict')
 const config = require('./config/environment')
 
 // Set default node environment to development
-
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 var env = process.env.NODE_ENV;
