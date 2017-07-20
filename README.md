@@ -15,6 +15,17 @@ You can use all range types of `semver`.
 Show more on [semver](https://www.npmjs.com/package/semver)
 
 # Getting started
+
+Install module: 
+```sh
+$ npm i mongoose-transactions
+```
+
+Install and save module in your project: 
+```sh
+$ npm i -S mongoose-transactions
+```
+
 You need to specify in your `package.json` the engines you would use, for example: 
 
 ```json
